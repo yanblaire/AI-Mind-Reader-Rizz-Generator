@@ -111,12 +111,6 @@ Let me know if you need any help! 🚀
 
 ---
 
-## 📝 License  
-
-This project is licensed under the **MIT License**.  
-
----
-
 ## 👤 Author  
 
 **Yan Dologuin**  
